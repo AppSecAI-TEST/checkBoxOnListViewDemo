@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\softwise\.android\build-cache\b6b051bd7e5be3208bac3890752f698b9aa0a05b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\BatchRemoveDemo\build\intermediates\pre-dexed\debug\classes_ca192d3065db793a45e2d73df35a7a17ee36661e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\softwise\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\BatchRemoveDemo\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_e897dfe873a7404537346bb80adc7322dc6df9c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\softwise\.android\build-cache\b6b051bd7e5be3208bac3890752f698b9aa0a05b\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\BatchRemoveDemo\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_ec468a14bca22de8de81489a9a784981402876dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\softwise\.android\build-cache\2ea213e1698f73bb77910565b6b30ec6192bff24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\BatchRemoveDemo\build\intermediates\pre-dexed\debug\classes_c27a6e49bf0748eb2ee566f901d3bfb268cb3d64.jar" />
+    </item>
+
+</items>

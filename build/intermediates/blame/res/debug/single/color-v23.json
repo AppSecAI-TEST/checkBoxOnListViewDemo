@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\EclipseWorkspace\\BatchRemoveDemo\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\EclipseWorkspace\\BatchRemoveDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\BatchRemoveDemo\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\softwise\\.android\\build-cache\\2ea213e1698f73bb77910565b6b30ec6192bff24\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    }
+]

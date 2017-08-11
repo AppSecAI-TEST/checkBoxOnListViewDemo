@@ -1,0 +1,6 @@
+E:\EclipseWorkspace\BatchRemoveDemo\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\batchremovedemo\MyAdapter$1.class
+E:\EclipseWorkspace\BatchRemoveDemo\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\batchremovedemo\MyAdapter.class
+E:\EclipseWorkspace\BatchRemoveDemo\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\batchremovedemo\MyAdapter$ViewHolder.class
+E:\EclipseWorkspace\BatchRemoveDemo\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\batchremovedemo\MainActivity$5.class
+E:\EclipseWorkspace\BatchRemoveDemo\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\batchremovedemo\MainActivity.class
+E:\EclipseWorkspace\BatchRemoveDemo\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\batchremovedemo\MainActivity$4.class

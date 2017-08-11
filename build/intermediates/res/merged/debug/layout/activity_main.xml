@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main_activity"
+    tools:context="com.example.batchremovedemo.MainActivity" >
+
+    <include
+        android:id="@+id/ry_top"
+        layout="@layout/my_top_layout"/>
+
+    <LinearLayout
+        android:layout_below="@id/ry_top"
+        android:layout_width="match_parent"
+        android:id="@+id/top_below"
+        android:layout_height="60dp"
+        android:background="@drawable/edittext_bg">
+
+        <!--  <TextView
+              android:layout_width="100dp"
+              android:layout_height="match_parent"
+              android:text="录入信息"
+              android:layout_margin="10dp"
+              android:textSize="16dp"/>-->
+        <Button
+            android:id="@+id/btn_select"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+             />
+       <!-- <Button
+            android:id="@+id/btn_select_cancel"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:text="反选" />-->
+
+    </LinearLayout>
+
+    <ListView
+        android:layout_below="@id/top_below"
+        android:id="@+id/main_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+</RelativeLayout>

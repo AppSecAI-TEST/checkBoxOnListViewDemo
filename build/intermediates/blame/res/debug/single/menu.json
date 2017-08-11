@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\EclipseWorkspace\\BatchRemoveDemo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\EclipseWorkspace\\BatchRemoveDemo\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\BatchRemoveDemo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\BatchRemoveDemo\\res\\menu\\main.xml"
+    }
+]
